@@ -1,0 +1,2 @@
+GET /users - Status 200 
+POST /users - Status 201 
